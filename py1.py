@@ -8,3 +8,8 @@ print(my_list[4])
 
 for i in range(5):
     print(i)
+
+#nouvelle fonctionnalité:
+x=5
+y=6
+print(x+y)
